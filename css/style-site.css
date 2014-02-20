@@ -1,0 +1,59 @@
+/* Usando Bootstrap 3.0 */
+
+#head{
+	max-height: 750px;
+	
+}
+
+#caixa_menu{
+
+	height: 50px;
+	
+	position: absolute;
+	z-index: 9999;
+	width: 940px;
+	margin-top: 15px;
+	left: 50%;
+	margin-left: -470px;
+}
+
+.carousel-inner img{
+
+	width:100%;
+	text-align: center;
+}
+
+.serv{
+	max-height: 350px;
+	text-align: center;
+}
+
+#destaque{
+	margin-top: 20px;
+	margin-bottom:30px;
+}
+
+#port{
+	margin-top: 20px;
+	margin-bottom:30px;
+}
+
+#texto_destaque{
+
+	padding-top: 30px;
+	padding-bottom: 30px;
+	margin-top: 30px;
+	margin-bottom:30px;
+}
+
+#home_blog{
+	
+}
+
+#footer{
+
+	background:#333333;
+	min-height: 250px;
+	margin-top: 20px;
+	color: #fff;
+}
